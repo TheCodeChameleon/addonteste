@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Old Fridge",
+		"description": "Old Fridge Resource Pack",
+		"uuid": "ae24b123-0032-5ef6-71c6-2abda1f03656",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Obeki"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.5.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Old Fridge",
+			"type": "resources",
+			"uuid": "42c50e8f-84d2-1719-c057-f00411fcd882",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "331cefd4-308a-4e8c-b7a8-ed9d4a63b97e",
+			"version": [1, 0, 0]
+		}
+	]
+}

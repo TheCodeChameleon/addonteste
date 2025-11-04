@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Old Fridge",
+		"description": "Old Fridge Behavior Pack",
+		"uuid": "331cefd4-308a-4e8c-b7a8-ed9d4a63b97e",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Obeki"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.5.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "2e9423e8-16e5-7f9e-49f0-aba6c08e1c41",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "ae24b123-0032-5ef6-71c6-2abda1f03656",
+			"version": [1, 0, 0]
+		}
+	]
+}
